@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787688906709",
+    "project_id": "efreifluttercours1",
+    "storage_bucket": "efreifluttercours1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787688906709:android:b730de2f39b4e4da78e75c",
+        "android_client_info": {
+          "package_name": "com.example.efreigrp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkL46wOqX08fvqEpSRYjGHwHLBVWfQi_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787688906709:android:bc8f7b598824dc9678e75c",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkL46wOqX08fvqEpSRYjGHwHLBVWfQi_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
